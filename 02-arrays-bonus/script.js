@@ -26,7 +26,7 @@ console.log(teachers);
 // 4. Verifica se 'Fabio' è presente nell'array teachers
 // e salva il risultato nella variabile isFabioPresent
 const isFabioPresent = teachers.some(x => x === 'Fabio');
-console.log("Fabio is present?", isFabioPresent);
+console.log("is Fabio present?", isFabioPresent);
 
 
 
